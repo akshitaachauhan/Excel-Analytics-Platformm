@@ -45,5 +45,3 @@ An end-to-end platform for securely uploading, analyzing, and visualizing Excel 
 
 ---
 
-## 📂 Project Structure
-
